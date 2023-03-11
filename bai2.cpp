@@ -97,5 +97,4 @@ int main() {
     xuat_ds_sach(a,n);
     printf("%d", sum_of_books(a,n));
     return 0;
-    // loi con me m roi
 }
